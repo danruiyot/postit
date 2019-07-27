@@ -1,0 +1,15 @@
+#left{;
+	padding: 2px;
+	float: left;	
+	margin: 3px;
+	text-align: left;
+	}
+	#right{
+	padding: 2px;
+	float: right;
+	margin: 3px;
+	text-align: right;
+	}
+	a {
+    text-decoration: none;
+}
